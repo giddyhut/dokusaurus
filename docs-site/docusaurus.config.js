@@ -38,11 +38,11 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Steps',
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/docs/hello',
             },
           ],
         },
