@@ -4,15 +4,15 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 
 ## Installation
 
-```console
 ~~yarn install~~
+```console
 npx @docusaurus/init@latest init docs-site classic
 ```
 
 ## Local Development
 
-```console
 ~~yarn start~~
+```console
 npm run start
 ```
 
@@ -20,8 +20,8 @@ This command starts a local development server and opens up a browser window. Mo
 
 ## Build
 
-```console
 ~~yarn build~~
+```console
 npm run build
 ```
 
